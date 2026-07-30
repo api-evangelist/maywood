@@ -1,8 +1,31 @@
 aid: maywood
 name: Maywood
-description: Maywood is a company surfaced as a portfolio company of y-combinator and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Maywood is a Y Combinator (W26) artificial-intelligence startup building a
+  finance-compliant, proactive AI platform that automates deal execution for
+  investment banks. The product runs continuously across a banker's network,
+  pipeline, and active M&A processes, generating client-ready CIMs, pitch decks,
+  and financial models, drafting outreach in the banker's voice, and managing
+  due-diligence workflows through a connected data layer that updates
+  automatically. Maywood is built to FINRA and SEC requirements: autonomous
+  within scope, human-approved at every external boundary, and fully
+  reconstructable in between. Founded in 2026 and based in New York City, it is
+  an early-stage SaaS company with no public developer API at this time; this
+  profile tracks its public web, security, and trust surfaces so the network can
+  detect an API program when one appears.
 url: https://raw.githubusercontent.com/api-evangelist/maywood/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.maywoodai.com/assets/logo/maywood-logo-dark.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,12 +34,49 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Artificial Intelligence
+- Investment Banking
+- Financial Services
+- Fintech
+- Mergers and Acquisitions
+- Deal Execution
+- Compliance
+- SaaS
+- Y Combinator
 apis: []
+common:
+- type: DomainSecurity
+  url: security/maywood-domain-security.yml
+- type: LLMsTxt
+  url: llms/maywood-llms.txt
+- type: Website
+  url: https://www.maywoodai.com/
+- type: Blog
+  url: https://www.maywoodai.com/news
+- type: SignUp
+  url: https://www.maywoodai.com/signup
+- type: Login
+  url: https://investment-bank.maywoodai.com/signin
+- type: Support
+  url: https://www.maywoodai.com/request-demo
+- type: TermsOfService
+  url: https://www.maywoodai.com/terms-and-conditions
+- type: PrivacyPolicy
+  url: https://www.maywoodai.com/privacy-policy
+- type: TrustCenter
+  url: https://trust.maywoodai.com/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/maywood/
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1
