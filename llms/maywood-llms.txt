@@ -1,0 +1,27 @@
+# Maywood
+
+> Maywood is a Y Combinator (W26) artificial-intelligence startup building a finance-compliant, proactive AI platform that automates deal execution for investment banks — generating client-ready CIMs, pitch decks, and financial models, drafting outreach, and managing due-diligence workflows, built to FINRA and SEC requirements. Founded 2026, New York City. No public developer API is published at this time.
+
+## Company
+- [Website](https://www.maywoodai.com/): Company home and product overview
+- [Maverick product](https://www.maywoodai.com/maverick): Maywood's proactive AI product
+- [News](https://www.maywoodai.com/news): Company blog and announcements
+- [Y Combinator profile](https://www.ycombinator.com/companies/maywood): YC W26 batch profile
+
+## Get started
+- [Sign up](https://www.maywoodai.com/signup): Create an account
+- [Sign in](https://investment-bank.maywoodai.com/signin): Application login
+- [Request a demo](https://www.maywoodai.com/request-demo): Contact / demo request
+
+## Security & trust
+- [Trust Center](https://trust.maywoodai.com/): Vanta-hosted trust and compliance center
+- [Privacy Policy](https://www.maywoodai.com/privacy-policy)
+- [Terms and Conditions](https://www.maywoodai.com/terms-and-conditions)
+
+## Network artifacts
+- [API Evangelist profile](https://raw.githubusercontent.com/api-evangelist/maywood/refs/heads/main/apis.yml): APIs.json profile for Maywood
+- [Domain security probe](https://raw.githubusercontent.com/api-evangelist/maywood/refs/heads/main/security/maywood-domain-security.yml): TLS/DNS/email-auth posture
+
+## Notes
+- No public REST/GraphQL API, OpenAPI specification, SDKs, CLI, or MCP server were found on public surfaces as of 2026-07-20.
+- Social: [LinkedIn](https://www.linkedin.com/company/maywood/)
