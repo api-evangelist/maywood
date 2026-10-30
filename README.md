@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Maywood is a company surfaced as a portfolio company of y-combinator and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Maywood is a Y Combinator (W26) artificial-intelligence startup building a finance-compliant, proactive AI platform that automates deal execution for investment banks. The product runs continuously across a banker's network, pipeline, and active M&A processes, generating client-ready CIMs, pitch decks, and financial models, drafting outreach in the banker's voice, and managing due-diligence workflows through a connected data layer that updates automatically. Maywood is built to FINRA and SEC requirements: autonomous within scope, human-approved at every external boundary, and fully reconstructable in between. Founded in 2026 and based in New York City, it is an early-stage SaaS company with no public developer API at this time; this profile tracks its public web, security, and trust surfaces so the network can detect an API program when one appears.
 
-Backed by: y-combinator
+**Areas:** Company · Artificial Intelligence · Investment Banking · Financial Services · Fintech · Mergers and Acquisitions · Deal Execution · Compliance · Software-as-a-Service · Y Combinator
+
+## Maywood on APIs.io
+
+Everything profiled for Maywood is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/maywood/](https://apis.io/providers/maywood/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Maywood Domain Security](https://apis.io/security/maywood/maywood-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.maywoodai.com/)
+- [Sign up](https://www.maywoodai.com/signup)
+- [Support](https://www.maywoodai.com/request-demo)
+- [Blog](https://www.maywoodai.com/news)
+- [Trust centre](https://trust.maywoodai.com/)
+- [Terms of service](https://www.maywoodai.com/terms-and-conditions)
+- [Privacy policy](https://www.maywoodai.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 6.6** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 14.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 8.1** — Banking & Open Finance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/maywood/](https://apis.io/providers/maywood/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Maywood: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/maywood/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
